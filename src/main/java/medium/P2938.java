@@ -1,3 +1,5 @@
+package medium;
+
 public class P2938 {
     public static void main(String[] args) {
         String s = "101";
